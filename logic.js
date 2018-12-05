@@ -45,7 +45,7 @@ $("#click-button").on("click", function() {
 
   // Alert User and reset the counter
   if (clickCounter === 0) {
-    alert("Phew! You made it! That sure was a lot of clicking.");
+    alert("Consider this an intervention. We love you, but you need help.");
     clickCounter = initialValue;
   }
 
